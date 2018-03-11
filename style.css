@@ -1,0 +1,24 @@
+.zanr {font-size: 70px;
+         text-align: center;
+         color:green;
+         font-weight: bolder; 
+         padding: 10px;}
+  h2 {font-family: Comic Sans MS;
+    border-style: dotted;}
+  h1 {font-size: 40px;
+      font-style: italic;}
+  .content .zdroj {text-decoration: underline;
+  text-transform: uppercase;}
+  .content .autor {text-decoration: underline;
+  text-transform: uppercase;}
+  body {background-color: BurlyWood;
+  line-height: normal;}
+  p {font-size: 20px;
+      margin-bottom: 100px: }
+  blockquote {font-size: 20px;
+              font-style:italic;}
+  header {text-align: center;
+    font-size: 70px;}
+  .zdroj a {color:red;}
+  footer {float: right;
+    font-weight: bolder;}
