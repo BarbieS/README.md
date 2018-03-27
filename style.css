@@ -8,9 +8,9 @@
     color: yellow;}
   h1 {font-size: 40px;
       font-style: italic;}
-  .content .zdroj {text-decoration: overline;
+  .content .zdroj {text-decoration: underline;
   text-transform: uppercase;}
-  .content .autor {text-decoration: underline;
+  .content .autor {text-decoration: overline;
   text-transform: uppercase;}
   body {background-color: LightCyan;
   line-height: normal;}
