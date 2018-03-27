@@ -1,24 +1,63 @@
-.zanr {font-size: 70px;
-         text-align: center;
-         color:green;
-         font-weight: bolder; 
-         padding: 10px;}
-  h2 {font-family: Comic Sans MS;
-    border-style: dotted;}
-  h1 {font-size: 40px;
-      font-style: italic;}
-  .content .zdroj {text-decoration: underline;
-  text-transform: uppercase;}
-  .content .autor {text-decoration: underline;
-  text-transform: uppercase;}
-  body {background-color: BurlyWood;
-  line-height: normal;}
-  p {font-size: 20px;
-      margin-bottom: 100px: }
-  blockquote {font-size: 20px;
-              font-style:italic;}
-  header {text-align: center;
-    font-size: 70px;}
-  .zdroj a {color:red;}
-  footer {float: right;
-    font-weight: bolder;}
+.zanr {
+	font-size: 70px;
+        text-align: center;
+        color: #734d26;
+        font-weight: bolder; 
+        padding: 10px;
+}
+
+div {
+        display: block;
+        width: 600px;
+        position:absolute;
+        left: 33.5%;
+        right: 30%;
+        overflow:visible;
+        justify-content: center
+}
+
+h2 {
+	font-family: Comic Sans MS;
+    	border-style: dotted;
+}
+
+h1 {
+	font-size: 40px;
+    	font-style: italic;
+}
+  
+.content .zdroj {
+	text-decoration: underline;
+  	text-transform: uppercase;
+}
+
+.content .autor {
+	text-decoration: underline;
+  	text-transform: uppercase;}
+body {
+	background: url('http://thecutestblogontheblock.com/wp-content/uploads/2013/05/cheer-and-dear-free-blog-background-3c.jpg');
+  	line-height: normal;
+}
+p {
+	font-size: 20px;
+      	margin-bottom: 100px: 
+}
+
+blockquote {
+	font-size: 20px;
+        font-style:italic;
+}
+
+header {
+	text-align: center;
+    	font-size: 70px;
+}
+
+.zdroj a {
+	color:red;
+}
+
+footer {
+	float: right;
+    	font-weight: bolder;
+}
